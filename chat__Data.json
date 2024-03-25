@@ -1,0 +1,10 @@
+[
+    {
+      "dialog_id": "0xab38710",
+      "dialog": [
+        {"id": 0, "sender": "participant2", "text": "I love iphone! i just bought new iphone!"},
+        {"id": 1, "sender": "participant1", "text": "Thats good for you, i'm not very into new tech"}
+      ]
+    }
+  ]
+  
